@@ -1,0 +1,12 @@
+[book]
+title = "Roring Server Wiki"
+description = "What Roring does differently from vanilla pre-renewal Ragnarok Online."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+site-url = "/roring-wiki/"
+git-repository-url = "https://github.com/roring4rk/roring-wiki"
